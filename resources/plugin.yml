@@ -1,0 +1,7 @@
+name: DecayMe
+main: cc.tommyw.decayme.Main
+version: 1.0
+commands:
+  start:
+    description: OWO?! What's this?!
+    usage: /start
